@@ -2,8 +2,13 @@
 
 A grocery, recipe and pantry manager built with Flutter. Plan your shopping, turn recipes into shopping lists in one tap, and keep track of what's running low at home.
 
-**🔗 Live demo:** https://YOUR-USERNAME.github.io/pantrypal/
-**🎥 Video walkthrough:** _add YouTube link_
+**🔗 Live demo:** https://kas2804.github.io/pantrypal/
+<br>
+**🎥 Video walkthrough:** 
+
+https://github.com/user-attachments/assets/11d4a907-e7b6-4d5b-87cf-336adaba4404
+
+
 
 ## Screenshots
 
